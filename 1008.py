@@ -1,0 +1,5 @@
+NUMERO = int(input("IDFUNCIONARIO \n"))
+HT = int(input("HORAS TRABALHADAS \n"))
+HP= float(input("PREÇO HORA \n"))
+print("NUMERO = ",NUMERO)
+print("SALARIO = ", HT*HP)
